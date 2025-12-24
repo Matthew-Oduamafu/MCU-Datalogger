@@ -4124,6 +4124,16 @@
 		(uuid "6fafcd81-c4c5-4d63-8b94-d61cf37869b0")
 	)
 	(label "VCC"
+		(at 264.16 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "76793da8-efd8-44a4-ad95-560daeb04659")
+	)
+	(label "VCC"
 		(at 55.88 138.43 180)
 		(effects
 			(font
@@ -5484,7 +5494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
 			(at 269.24 37.846 90)
 			(effects
 				(font
