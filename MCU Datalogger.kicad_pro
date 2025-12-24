@@ -61,7 +61,7 @@
       "drc_exclusions": [
         [
           "text_height|131100000|106800000|b484f5be-c3fc-457c-b13a-31fa28c48f42|00000000-0000-0000-0000-000000000000",
-          "allowed"
+          "ALLOWED"
         ]
       ],
       "meta": {
@@ -192,8 +192,7 @@
         }
       ],
       "track_widths": [
-        0.0,
-        0.15
+        0.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -225,10 +224,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
