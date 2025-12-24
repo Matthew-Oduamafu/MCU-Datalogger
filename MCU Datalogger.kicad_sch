@@ -4243,6 +4243,16 @@
 		)
 		(uuid "9069e81c-a313-4f13-87ff-0fbefb295d77")
 	)
+	(label "Abc123"
+		(at 156.21 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "934cbadf-36de-4718-87d9-12828f1ab3ee")
+	)
 	(label "D7"
 		(at 215.9 142.24 0)
 		(effects
